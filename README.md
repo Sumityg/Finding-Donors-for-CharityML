@@ -8,10 +8,8 @@
 # Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 # Project Motivation
-For this project, I was interestested in using Seattle Airbnb data to better understand:
-How does the price of Seattle Airbnb listing vary throughout the year?When are the prices the highest and where are they lowest?
-Which neighborhoods have got the best average ratings from the reviewers?What are the most important factors influencing the ratings of an Airbnb listing?
-What are the most important factors influencing the price of an Airbnb listing?
+CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually.
+To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML wants to build an algorithm to best identify potential donors and reduce overhead cost of sending mail. My goal was to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 # File Description
 There is one notebook available here to showcase work related to the above questions.This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 # Results
